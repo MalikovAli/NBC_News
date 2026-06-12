@@ -1,0 +1,33 @@
+.navbar-box {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  padding: 1.02vw 0px;
+  margin-bottom: 32px;
+}
+
+.navbar-image {
+  width: 4.5vw;
+  height: 52px;
+}
+
+.navbar-ul {
+  /* calc vasitəsilə: Ekranın 65.37%-ni götür, amma loqo və boşluqlar üçün 40px çıx */
+  width: calc(65.37vw - 123px);
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  margin-right: 2.34vw;
+  margin-left: 6.1vw;
+}
+
+.right-arrow-box{
+  margin-right: 4.83vw;
+}
+
+.navbar-icons{
+  display: flex;
+  gap: 2.9vw;
+}

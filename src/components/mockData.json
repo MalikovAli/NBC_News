@@ -1,0 +1,258 @@
+[
+  {
+    "id": "1",
+    "title": "John Lewis to make final journey across Edmund Pettus Bridge in procession",
+    "description": "The body of the late US Rep. John Lewis on Sunday will make the final journey across the famous bridge in Selma, Alabama, where he helped lead a march for voting rights in 1965.",
+    "content": "...",
+    "image": "src/image/pettus-bridge.png",
+    "author": "Lucy Hiddleston",
+    "timeAgo": "2 hours ago",
+    "readTime": "4min read",
+    "likes": 28,
+    "shares": 72
+  },
+  {
+    "id": "2",
+    "title": "John Lewis, civil rights giant, crosses infamous Selma bridge one final time",
+    "description": "Solemn crowds watch as Lewis, who died earlier this month at the age of 80, is borne by caisson over Edmund Pettus Bridge.",
+    "content": "...",
+    "image": "src/image/selma-bridge.png",
+    "author": "Lucy Hiddleston",
+    "timeAgo": "2 hours ago",
+    "readTime": "4min read",
+    "likes": 38,
+    "shares": 72
+  },
+  {
+    "id": "3",
+    "title": "Tornado and tide warnings as Storm Hanna lashes Texas",
+    "description": "The body of the late US Rep. John Lewis on Sunday will make the final journey across the famous bridge in Selma, Alabama, where he helped lead a march for voting rights in 1965.",
+    "content": "...",
+    "image": "src/image/storm-hanna.png",
+    "author": "Lucy Hiddleston",
+    "timeAgo": "2 hours ago",
+    "readTime": "4min read",
+    "likes": 15,
+    "shares": 43
+  },
+  {
+    "id": "4",
+    "title": "20 Years Ago, Steve Jobs Built the 'Coolest Computer Ever.' It Bombed",
+    "description": "This month marks the 20th anniversary of the Power Mac G4 Cube, which debuted July 19, 2000.",
+    "content": "...",
+    "image": "src/image/steve-jobs.png",
+    "author": "Lucy Hiddleston",
+    "timeAgo": "2 hours ago",
+    "readTime": "4min read",
+    "likes": 38,
+    "shares": 72
+  },
+  {
+    "id": "5",
+    "title": "John Lewis to make final journey across Edmund Pettus Bridge in procession",
+    "description": "The body of the late US Rep. John Lewis on Sunday will make the final journey.",
+    "content": "...",
+    "image": "src/image/pettus-bridge.png",
+    "author": "Lucy Hiddleston",
+    "timeAgo": "2 hours ago",
+    "readTime": "4min read",
+    "likes": 28,
+    "shares": 72
+  },
+  {
+    "id": "6",
+    "title": "John Lewis, civil rights giant, crosses infamous Selma bridge one final time",
+    "description": "Solemn crowds watch as Lewis, who died earlier this month at the age of 80.",
+    "content": "...",
+    "image": "src/image/selma-bridge.png",
+    "author": "Lucy Hiddleston",
+    "timeAgo": "2 hours ago",
+    "readTime": "4min read",
+    "likes": 38,
+    "shares": 72
+  },
+  {
+    "id": "7",
+    "title": "Tornado and tide warnings as Storm Hanna lashes Texas",
+    "description": "The body of the late US Rep. John Lewis on Sunday will make the final journey.",
+    "content": "...",
+    "image": "src/image/storm-hanna.png",
+    "author": "Lucy Hiddleston",
+    "timeAgo": "2 hours ago",
+    "readTime": "4min read",
+    "likes": 15,
+    "shares": 43
+  },
+  {
+    "id": "8",
+    "title": "20 Years Ago, Steve Jobs Built the 'Coolest Computer Ever.' It Bombed",
+    "description": "This month marks the 20th anniversary of the Power Mac G4 Cube.",
+    "content": "...",
+    "image": "src/image/steve-jobs.png",
+    "author": "Lucy Hiddleston",
+    "timeAgo": "2 hours ago",
+    "readTime": "4min read",
+    "likes": 38,
+    "shares": 72
+  },
+  {
+    "id": "9",
+    "title": "Serological surveys are being conducted to test for coronavirus antibodies. How useful are they?",
+    "description": "The authorities are hoping to find that a substantial proportion of the population has already been infected with the virus – and so is immune.",
+    "content": "...",
+    "image": "src/image/pettus-bridge.png",
+    "likes": 15,
+    "shares": 43
+  },
+  {
+    "id": "10",
+    "title": "Making a mark in Asia: East Bengal’s 2003 Asean Cup win – a defining moment for Indian club football",
+    "description": "Beating some of the finest teams from South Asia, East Bengal became the first Indian club to win an officially recognised Asian football tournament.",
+    "content": "...",
+    "image": "src/image/selma-bridge.png",
+    "likes": 15,
+    "shares": 43
+  },
+  {
+    "id": "11",
+    "title": "Serological surveys are being conducted to test for coronavirus antibodies. How useful are they?",
+    "description": "The authorities are hoping to find that a substantial proportion of the population has already been infected with the virus – and so is immune.",
+    "content": "...",
+    "image": "src/image/storm-hanna.png",
+    "likes": 15,
+    "shares": 43
+  },
+  {
+    "id": "12",
+    "title": "Making a mark in Asia: East Bengal’s 2003 Asean Cup win – a defining moment for Indian club football",
+    "description": "Beating some of the finest teams from South Asia, East Bengal became the first Indian club to win an officially recognised Asian football tournament.",
+    "content": "...",
+    "image": "src/image/steve-jobs.png",
+    "likes": 15,
+    "shares": 43
+  },
+  {
+    "id": "13",
+    "title": "Serological surveys are being conducted to test for coronavirus antibodies. How useful are they?",
+    "description": "The authorities are hoping to find that a substantial proportion of the population has already been infected with the virus – and so is immune.",
+    "content": "...",
+    "image": "src/image/pettus-bridge.png",
+    "likes": 15,
+    "shares": 43
+  },
+  {
+    "id": "14",
+    "title": "Making a mark in Asia: East Bengal’s 2003 Asean Cup win – a defining moment for Indian club football",
+    "description": "Beating some of the finest teams from South Asia, East Bengal became the first Indian club to win an officially recognised Asian football tournament..",
+    "content": "...",
+    "image": "src/image/selma-bridge.png",
+    "likes": 15,
+    "shares": 43
+  },
+  {
+    "id": "15",
+    "title": "Serological surveys are being conducted to test for coronavirus antibodies. How useful are they?",
+    "description": "The authorities are hoping to find that a substantial proportion of the population has already been infected with the virus – and so is immune.",
+    "content": "...",
+    "image": "src/image/storm-hanna.png",
+    "likes": 15,
+    "shares": 43
+  },
+  {
+    "id": "16",
+    "title": "Making a mark in Asia: East Bengal’s 2003 Asean Cup win – a defining moment for Indian club football",
+    "description": "Beating some of the finest teams from South Asia, East Bengal became the first Indian club to win an officially recognised Asian football tournament.",
+    "content": "...",
+    "image": "src/image/steve-jobs.png",
+    "likes": 15,
+    "shares": 43
+  },
+
+  {
+    "id": "17",
+    "timeAgo": "12 hours ago",
+    "author": "Carolina Cassey  |  4min read",
+    "detailContent1": "Crowds watched solemnly as the body of Rep. John Lewis crossed the Edmund Pettus Bridge one final time, 55 years after the civil rights icon marched for peace and was met with brutality in Selma, Alabama",
+    "detailContent2": "Body bearers from the U.S. armed forces placed the late Georgia congressman and civil rights icon onto a horse-drawn caisson Sunday at the Brown Chapel African Methodist Episcopal Church. From there, the public were allowed to line up to honor Lewis for about a half-mile to the foot of the bridge.",
+    "detailContent3": "Rep. Terri Sewell, D-Al., thanked Lewis’ family during a ceremony at the chapel for sharing the congressman with the public for so many years",
+    "detailContent4": "“Our nation is better off because of John Robert Lewis,” she remarked. “My life is better, Selma is better, this nation and this world is better because of John Robert Lewis.”"
+  },
+
+  {
+    "id": "18",
+    "recommendedImage": "src/image/recommended.png",
+    "recommendedContent": "Millions rely on emergency pandemic benefits for rent, food, and  medicine. Now, that lifeline could disappear."
+  },
+
+  {
+    "id": "19",
+    "solemnCrowdsHeading": "Solemn crowds watch as Lewis, who died earlier this month at the age of 80, is borne by caisson over Edmund Pettus Bridge",
+    "solemnImage": "src/image/solemn-crowds.png",
+    "solemnImageContent1": "The casket of late U.S. Rep. John Lewis, a pioneer of the civil rights movement who died July 17, is carried outside the Brown Chapel A.M.E. Church, in Selma, Ala., on July 26, 2020. ",
+    "solemnImageContent2": "Christopher Aluka Berry / Reuters",
+    "solemnContent1": "Crowds waited for Lewis’ body at the foot of the bridge, where he was met by Alabama state troopers, who safely escorted him across and on to the state capitol.",
+    "solemnContent2": "'His final march, that final crossing, so different than the first, speaks to the legacy that he leaves behind and the lives that he changed,” Sewell said. 'It’s poetic justice that this time, Alabama state troopers will see John to his safety.",
+    "solemnContent3": "As the horse-drawn caisson approached the bridge, those in the masses on the sidewalk could be heard singing for Lewis. In an emotional moment, the voices stopped as Lewis' casket began to make its way across the bridge in silent reverence.",
+    "solemnContent4": "Lewis, who died earlier this month at the age of 80, made his last journey across the Edmund Pettus Bridge with only his family to join him.",
+    "solemnContent5": "Lewis' son, brothers and sister followed behind the caisson along Lewis' longtime chief of staff wearing shirts emblazoned with the words 'Good Trouble,' a nod to Lewis' view on activism."
+  },
+
+  {
+    "id": "20",
+    "solemnAdaHeading": "Based on Like",
+    "solemnAdaImage": "src/image/ada.png",
+    "solemnAdaContent": "The ADA is turning 30. It's time that it included digital accessibility."
+  },
+
+  {
+    "id": "21",
+    "edmundPettusImage": "src/image/hourse.png",
+    "edmundPettusImageContent1": "The casket of Rep. John Lewis moves over the Edmund Pettus Bridge by horse drawn carriage during a memorial service for Lewis in Selma, Ala., on July 26, 2020. ",
+    "edmundPettusImageContent2": "John Bazemore / AP",
+    "edmundPettusContent1": "The 16-term lawmaker, often called the conscience of Congress, was a giant of the civil rights movement of the 1960s. Lewis was only 25 when he believed Alabama troopers would kill him on the peaceful march for voting rights across the bridge on March 7, 1965, known today as “Bloody Sunday.",
+    "edmundPettusContent2": "Lewis suffered a fractured skull and was one of dozens of nonviolent protesters who were hospitalized. News coverage of the brutal beatings prompted increased pressure on Congress to pass the 1965 Voting Rights Act, to bar states from enforcing discriminatory laws that had long hindered prospective Black voters.",
+    "edmundPettusContent3": "And though Lewis is possibly best known for his march in Selma, he had already emerged as a leading voice in the fight for equal rights and had been arrested a number of times for the cause by that time."
+  },
+
+  {
+    "id": "22",
+    "newsletterHeading": "Sign up for The NBC News Newsletter",
+    "newsletterContent1": "By Caroline Casey",
+    "newsletterContent2": "A weekly, ad-free newsletter that helps 786,000+ readers stay in the know, be productive, and think more critically about the world. Take a look"
+  },
+
+  {
+    "id": "23",
+    "detailCommentImage": "src/image/caroline casey.png",
+    "detailCommentHeading": "Caroline Casey",
+    "detailCommentContent1": "Caroline Casey is an award-winning social activist and founder of ",
+    "detailCommentContent2": "The Valuable 500 ",
+    "detailCommentContent3": "a global movement aimed at getting 500 companies to commit to disability inclusion."
+  },
+  {
+    "id": "24",
+    "topicsImage": "src/image/f7ed4439ddf1c7f6f33750cb3011482a1eb4d573.png",
+    "topicsContent": "India & Its Magnetic Charm For Foreign Investments"
+  },
+  {
+    "id": "25",
+    "topicsImage": "src/image/a4174cd7db0723eb8da49abe0a34b4b50e9e156b.png",
+    "topicsContent": "IHill Republicans begin jockeying for power in a possible post-Trump world"
+  },
+  {
+    "id": "26",
+    "topicsImage": "src/image/74bab1c67739539e21da7cdcf6fe646a65033431.png",
+    "topicsContent": "Twitter 'walkout' planned after rapper's anti-Semitic tirade"
+  },
+  {
+    "id": "27",
+    "topicsImage": "src/image/e784c2aa9797ebe97d3bf7ee65e47164286c4e08.png",
+    "topicsContent": "Fleetwood Mac co-founder Peter Green dies at 73"
+  },
+
+  {
+    "id": "28",
+    "topicsImage": "src/image/ada.png",
+    "topicsContent": "The ADA is turning 30. It's time that it included digital accessibility."
+  }
+]

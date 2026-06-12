@@ -1,0 +1,62 @@
+.footer-box{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 13.75vw;
+  width: 98.9vw;
+  height: 250px;
+  background-color: #0E1E32;
+}
+
+.nbc-logo-box{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.nbc-logo{
+  width: 4.8vw;
+  height: 40px;
+  margin-bottom: 41px;
+}
+
+.nbc-content{
+  font-family: "Poppins", sans-serif;
+  font-size: 0.87vw;
+  font-weight: 400;
+  color: #fff;
+  opacity: 50%;
+}
+
+.footer-content-box{
+  transform: translateY(12px);
+}
+
+.footer-content{
+  font-family: "Poppins", sans-serif;
+  font-size: 1.1vw;
+  font-weight: 500;
+  margin-bottom: 9px;
+  color: #fff;
+}
+
+.footer-ul{
+  width: 28.3vw;
+  display: flex;
+  justify-content: space-between;
+  gap: 1vw;
+  margin-bottom: 30px;
+}
+
+.footer-ul > li{
+  font-family: "Poppins", sans-serif;
+  font-size: 1.1vw;
+  font-weight: 500;
+  color: #fff;
+  list-style: none;
+}
+
+.footer-icon-box{
+  display: flex;
+  gap: 3.74vw;
+}

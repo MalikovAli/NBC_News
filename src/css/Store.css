@@ -1,0 +1,247 @@
+.store-section{
+  width: 96.3%;
+  transform: translateX(3.66vw);
+}
+
+.store-navbar{
+  width: 60.5vw;
+  background-color: #fff;
+  display: flex;
+  justify-content: space-between;
+  padding: 0.95vw 1.1vw;
+}
+
+.store-boxes{
+  display: flex;
+}
+
+.store-ul{
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  gap: 2.9vw;
+  list-style: none;
+  font-size: 1.32vw;
+  font-weight: 600;
+}
+
+.harburger-image-box{
+  display: flex;
+  align-items: center;
+}
+
+.store-grid-icon{
+  width: 2vw;       /* İstədiyin en ölçüsü (məsələn: 24px) */
+  height: 27px;
+  transform: translateX(-0.8vw);
+}
+
+.store-box{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #fff;
+}
+
+/* 1. Kartları bürüyən ana konteyner */
+.store-grid-container {
+  width: 64%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2.92vw;
+  margin-bottom: 40px;
+}
+
+/* 2. Kartın özü (Sabit ölçülü) */
+.store-box {
+  width: 28.8vw;
+}
+
+.store-box-bottom{
+  transform: translateY(-10px);
+}
+
+.store-box-top{
+  margin-bottom: 40px;
+}
+
+/* 3. Kartın daxilindəki şəkil */
+.store-image {
+  width: 100%;
+  height: 246px;
+  margin-bottom: 15px;
+  object-fit: cover;
+}
+
+.store-card-heading{
+  margin-bottom: 17px;
+}
+
+.store-card-heading > a{
+  font-size: 1.31vw;
+  font-weight: 600;
+  font-family: "IBM Plex Serif", serif;
+  color: #2A2A2A;
+  text-decoration: none;
+}
+
+.store-content-boxes{
+  padding: 0px 5.7% 0px 5.7%;
+}
+
+.store-card-content1{
+  font-family: "Nunito Sans", sans-serif;
+  width: 26.2vw;
+  font-size: 1.09vw;
+  font-weight: 400;
+  color: #2A2A2A;
+  margin-bottom: 30px;
+}
+
+.store-card-content-box{
+  display: flex;
+  gap: 0.65vw;
+  margin-bottom: 77px;
+}
+
+.store-card-content2, .store-card-content4{
+  font-size: 0.95vw;
+  font-weight: 400;
+  color: #2A2A2A;
+}
+
+.store-card-content4{
+  opacity: 70%;
+}
+
+.store-card-footer{
+  display: flex;
+  justify-content: center;
+  gap: 2.19vw;
+  margin-bottom: 20px;
+}
+
+.hearth-icon-box, .download-icon-box{
+  display: flex;
+  gap: 0.51vw;
+}
+
+.hearth-card-content3, .store-card-content3{
+  font-size: 0.73vw;
+  font-weight: 500;
+  transform: translateY(3px);
+}
+
+.heath-image, .download-image{
+  width: 1.31vw;
+  height: 16px;
+}
+
+.store-card-footer-second{
+  transform: translateY(24px);
+  margin-bottom: 20px;
+}
+
+.live-box{
+  transform: translate(2vw, -38px);
+}
+
+.live-heading-box{
+  display: flex;
+  gap: 1.02vw;
+}
+
+.live-heading{
+  font-family: "Poppins", sans-serif;
+  font-size: 1.31vw;
+  font-weight: 600;
+  color: #C31815;
+}
+
+.round-image{
+  width: 2vw;
+  height: 26px;
+  border-radius: 50%;
+}
+
+.live-image{
+  width: 27.1vw;
+  height: 218px;
+}
+
+.live-content{
+  font-family: "IBM Plex Serif", serif;
+  width: 26vw;
+  font-size: 1.31vw;
+  font-weight: 700;
+  color: #2A2A2A;
+  margin-bottom: 45px;
+}
+
+.location-news-box{
+  width: 27.08vw;
+  padding: 9% 0% 0px 6.4%;
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.location-heading{
+  font-family: "Poppins", sans-serif;
+  font-size: 1.31vw;
+  font-weight: 600;
+  color: #2A2A2A;
+  margin-bottom: 15px;
+}
+
+.location-content{
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 1.02vw;
+  font-weight: 400;
+  color: #141414;
+  margin-bottom: 14px;
+}
+
+
+[type="text"]{
+  width: 24.14vw;
+  height: 60px;
+  border: 1px solid #141414;
+  padding: 2.4vw 2.4vw;
+  margin-bottom: 38px;
+}
+
+.location-button-box{
+  width: 7.32vw;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 2px;
+  background-color: #C31815;
+  margin-bottom: 45px;
+}
+
+.location-link{
+  font-family: "Poppins", sans-serif;
+  font-size: 1.02vw;
+  font-weight: 500;
+  color: #fff;
+}
+
+.store-button-box{
+  width: 16.1vw;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border:  1px solid #C31815;
+  transform: translate(22vw);
+}
+
+.store-link{
+  font-size: 1.02vw;
+  font-weight: 500;
+  color: #C31815;
+  text-decoration: none;
+}

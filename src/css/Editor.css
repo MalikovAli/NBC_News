@@ -1,0 +1,91 @@
+.editor-section {
+  width: 96.3%;
+  overflow: hidden;
+  transform: translateX(3.66vw);
+  margin-bottom: 60px;
+}
+
+.editor-heading-box {
+  width: 13vw;
+  display: flex;
+  gap: 1.02vw;
+  transform: translateX(3.66vw);
+  margin-bottom: 22px;
+}
+.editor-heading {
+  font-size: 1.31vw;
+  font-weight: 600;
+  color: #2a2a2a;
+}
+
+/* Slayderin əsas çərçivəsi */
+.editor-slider-wrapper {
+  width: 100%;
+  overflow: hidden;
+}
+
+/* Hərəkət mexanizmi */
+.editor-track {
+  display: flex;
+  width: 400%; /* Kartların yan-yana düzülməsi üçün */
+  transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+  transform: translateX(3.66vw); /* Orijinal boşluğu qoruyur */
+}
+
+.editor-box {
+  width: 12.5%; /* Kartların yerləşməsi üçün */
+  flex-shrink: 0;
+  display: flex;
+  gap: 1.09vw;
+}
+
+/* Sənin orijinal ölçülərin */
+.editor-image-box {
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: space-between;
+  width: 19.02vw;
+  height: 170px; /* Orijinal ölçü */
+  border-radius: 8px;
+  transition: transform 0.3s ease;
+}
+
+.editor-image-heading {
+  font-size: 1.31vw;
+  font-weight: 600;
+  width: 26vw; /* Orijinal ölçü */
+  margin-bottom: 16px;
+  color: #2a2a2a;
+}
+
+.editor-image-content {
+  font-size: 1.17vw;
+  width: 27vw; /* Orijinal ölçü */
+  font-weight: 400;
+  color: #2a2a2a;
+}
+
+/* Xətlər */
+.editor-line-box {
+  display: flex;
+  justify-content: center;
+  gap: 1.24vw;
+  margin-top: 20px;
+}
+.editor-line,
+.editor-line1 {
+  height: 4px;
+  background-color: #c31815;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+.editor-line1 {
+  width: 1.83vw;
+  opacity: 1;
+}
+.editor-line {
+  width: 1.09vw;
+  opacity: 0.2;
+}
