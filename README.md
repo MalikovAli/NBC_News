@@ -2,6 +2,7 @@ NBC_News
 Bu layihə istifadəçilərə gündəmdə olan ən son xəbərləri izləmək və onlarla bağlı ətraflı məlumat almaq imkanı verən xəbər platformasıdır. Layihənin əsas məqsədi istifadəçilərə rahat və interaktiv interfeys vasitəsilə aktual xəbərləri təqdim etməkdir.
 
 💻 Texnologiyalar
+
 HTML
 
 CSS
