@@ -37,7 +37,7 @@ Bookmark Sistemi: Favoritləmə funksiyası üçün xüsusi UseBookmark.jsx komp
 🎓 Öyrəndiklərim
 Bu layihə üzərində işləyərkən aşağıdakı sahələrdə bacarıqlarımı təkmilləşdirdim:
 
-Dizayn: Müasir və istifadəçi üçün rahat dizaynların sıfırdan qurulması.<img width="1366" height="768" alt="Screenshot (255)" src="https://github.com/user-attachments/assets/3a5c7731-2502-43c9-aa68-802344618d9a" />
+Dizayn: Müasir və istifadəçi üçün rahat dizaynların sıfırdan qurulması.
 <img width="1366" height="768" alt="Screenshot (254)" src="https://github.com/user-attachments/assets/56ee4934-1a59-449f-bd4a-b38dc122ae7f" />
 <img width="1366" height="768" alt="Screenshot (253)" src="https://github.com/user-attachments/assets/ee12fc2b-b7f7-4ce7-92ce-f704bb98fc0b" />
 <img width="1366" height="768" alt="Screenshot (252)" src="https://github.com/user-attachments/assets/9db1c2ce-0993-4a47-931d-14a470c39558" />
